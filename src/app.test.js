@@ -1,4 +1,3 @@
-// import { TestScheduler } from 'jest';
 import healthStatus from './app';
 
 test.each([
